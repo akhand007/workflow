@@ -1,7 +1,7 @@
 var gulp = require('gulp');
     gutil = require('gulp-util'),
-     coffee = require('gulp-coffee'),
-        concat = require('gulp-concat');
+    coffee = require('gulp-coffee'),
+    concat = require('gulp-concat');
 
 //gulp.task('log',function(){
 //    gutil.log('Workflow are awesome');
